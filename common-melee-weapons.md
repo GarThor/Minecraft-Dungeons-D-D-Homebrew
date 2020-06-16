@@ -28,3 +28,223 @@
 </div>
 
 \page
+
+#### Axe
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Claymore
+*Kinda like a Greatsword*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Cursed Axe
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Cutlass
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Daggers
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+```
+```
+
+#### Double Axe
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+<br><img src='https://gamewith-en.akamaized.net/article/thumbnail/rectangle/18646.png'><br>
+TBD: write a really cool description here
+
+
+#### Firebrand
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+<br><img src='https://gamewith-en.akamaized.net/article_tools/minecraft-dungeons/gacha/18990.png' /><br>
+*Short Description Goes here*
+
+TBD: write a really cool description here
+
+#### Fortune Spear
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Gauntlets
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+\page
+
+#### Glaive
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Great Hammer
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Mace
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Master's Katana
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Pickaxe
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Sickle
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+```
+```
+
+#### Soul Fists
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Soul Knife
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Soul Scythe
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Spear
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Sword
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Whirlwind
+*Short Description Goes here*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+<br><img src='https://gamewith-en.akamaized.net/article_tools/minecraft-dungeons/gacha/19012.png'><br>
+TBD: write a really cool description here
