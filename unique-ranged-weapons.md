@@ -1,7 +1,6 @@
-## Ranged Weapons
 
 <div class='classTable wide'>
-##### Ranged Weapons
+##### Unique Ranged Weapons
 
 | Weapon | Rarity | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18,3 +17,128 @@
 | The Slicer                  | Unique | Faster Projectiles <br> Chance to Fire Piercing Bolts | 
 | Voidcaller                  | Unique | Pulls Enemies In <br> +2 Soul Gathering | 
 </div>
+
+\page
+
+#### Azure Seeker
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Elite Power Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Feral Soul Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Guardian Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Lightning Harp Cros
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Master's Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+```
+```
+
+#### Mechanical Shortbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Nocturnal Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Slayer Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### The Green Menace
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### The Slicer
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Voidcaller
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here

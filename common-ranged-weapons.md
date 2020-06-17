@@ -1,7 +1,6 @@
-## Ranged Weapons
+##### Common Ranged Weapons
 
 <div class='classTable wide'>
-##### Ranged Weapons
 
 | Weapon | Rarity | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -33,3 +32,289 @@
 | Trickbow                    | Common, Rare | Hits Multiple Targets |
 | Twin Bow                    | Common, Rare | Shoots Two Enemies at Once |
 </div>
+
+\page
+
+#### Auto Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Bonebow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Bow of Lost Souls
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Butterfly Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+```
+```
+
+#### Doom Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Exploding Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Firebolt Thrower
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Harp Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Heavy Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Hunter's Promise
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+```
+```
+\page
+
+#### Hunting Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Imploding Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Longbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Power Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Purple Storm
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Rapid Fire Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+```
+```
+
+#### Red Snake
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Sabrewing
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Scatter Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Shortbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Soul Crossbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Soulbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+```
+```
+\page
+
+#### The Pink Scoundrel
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Trickbow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
+
+#### Twin Bow
+*Basic Axe*
+___
+- **Price:** xx gp; **Damage** xdy B; **Weight** zz
+- **Hands:** 1
+- **Category:** Common
+- **Group:** Axe; **Traits** foo, bar
+
+TBD: write a really cool description here
