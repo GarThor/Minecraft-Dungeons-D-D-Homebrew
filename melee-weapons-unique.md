@@ -1,6 +1,7 @@
 ### Unique Melee Weapons
-<div class='classTable wide'>
+
 ##### Unique Melee Weapons
+<div class='classTable wide'>
 
 | Weapon | Rarity | Cost | Damage | Weight | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

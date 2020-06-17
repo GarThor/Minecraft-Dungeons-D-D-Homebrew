@@ -1,0 +1,2 @@
+# Character Building
+Minecraft itself has no race or class boundaries itself, and therefore all minecraft characters should be made as first level humans.  All minecraft Player Characters are proficient in all Melee/Ranged weapons and Artifacts.
