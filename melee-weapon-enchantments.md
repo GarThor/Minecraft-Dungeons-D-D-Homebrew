@@ -1,5 +1,8 @@
-##### Melee Weapon Enchantments
+### Melee Weapon Enchantments
+
 <div class='classTable wide'>
+
+##### Melee Weapon Enchantments Table
 
 | Enchantment | Rarity | Ability | Tier 1 | Tier 2 | Tier 3 |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -28,10 +31,14 @@
 \page
 
 <div class='classTable wide'>
-##### Melee Weapon Enchantments (Continued)
+
+##### Melee Weapon Enchantments Table (Continued)
+
 | Weapon | Rarity | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Swirling | Powerful | The last attack in a combo performs a swirling attack, damaging nearby enemies. | Deals a small amount of damage | Deals a medium amount of damage | Deals a large amount of damage |
 | Thundering | Common | Has 30% chance to summon a lightning strike that damages nearby enemies. | Deals small electrical damage | Deals medium electrical damage | Deals large electrical damage |
 | Weakening | Common | Your attacks decrease the attack damage of all nearby enemies for five seconds. | -20% reduced damage | -30% reduced damage | -40% reduced damage |
 </div>
+
+#### Melee Weapon Enchantment Descriptions

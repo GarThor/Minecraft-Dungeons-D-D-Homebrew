@@ -1,6 +1,8 @@
 ### Common Melee Weapons
+
 <div class='classTable wide'>
-##### Common Melee Weapons
+
+##### Common Melee Weapons Table
 
 | Weapon | Rarity | Cost | Damage | Weight | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -28,6 +30,8 @@
 </div>
 
 \page
+
+### Common Melee Weapon Descriptions
 
 #### Axe
 *Basic Axe*

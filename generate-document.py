@@ -25,6 +25,9 @@ def main():
     doc.write(page)
     doc.write("\r\n\r\n\\page\r\n\r\n")
 
+    doc.write("# Gear\r\n\r\n")
+
+    doc.write("## Melee Weapons\r\n\r\n")
     page = read_content("melee-weapons-common.md")
     doc.write(page)
     doc.write("\r\n\r\n\\page\r\n\r\n")
@@ -35,6 +38,7 @@ def main():
     doc.write(page)
     doc.write("\r\n\r\n\\page\r\n\r\n")
 
+    doc.write("## Ranged Weapons\r\n\r\n")
     page = read_content("ranged-weapons-common.md")
     doc.write(page)
     doc.write("\r\n\r\n\\page\r\n\r\n")
@@ -45,6 +49,7 @@ def main():
     doc.write(page)
     doc.write("\r\n\r\n\\page\r\n\r\n")
 
+    doc.write("## Armor\r\n\r\n")
     page = read_content("armor-common.md")
     doc.write(page)
     doc.write("\r\n\r\n\\page\r\n\r\n")
@@ -54,6 +59,9 @@ def main():
     page = read_content("armor-enchantments.md")
     doc.write(page)
     doc.write("\r\n\r\n\\page\r\n\r\n")
+
+    page = read_content("monsters.md")
+    doc.write(page)
 
     doc.close()
 

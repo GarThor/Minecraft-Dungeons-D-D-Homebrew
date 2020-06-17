@@ -1,7 +1,8 @@
 ### Ranged Weapon Enchantments
 
-##### Ranged Weapon Enchantments
 <div class='classTable wide'>
+
+##### Ranged Weapon Enchantments Table
 
 | Enchantment | Rarity | Ability | Tier 1 | Tier 2 | Tier 3 |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

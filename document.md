@@ -14,24 +14,25 @@
 <div style='margin-top:140px'></div>
 
 
-##### In an empire of deception, six tomb-robbers quest for the ultimate weapon and combat an army of raiders.
+##### In an empire of deception, six <s>tomb-robbers</s>Heros quest for the ultimate weapon and combat an army of <s>raiders</s>Mobs.
 
 <br><br>
 Most of the content in this guide so far is based off of or direclty coppied from: https://www.ign.com/wikis/minecraft-dungeons/
 
 <br><br>
 Special thanks to <a href="https://homebrewery.naturalcrit.com">the homebrewery</a>, for the formatting tools to make this guide look oh-so-professional with very little effort needed on my part.  =D
-</div>
-
-\page
-
+</div>
+
+\page
+
 # Table of Contents
 <div class='toc'>
+
 ##### Table Of Contents
 - **[1 Minecraft Dungeons PHB](#p1)**
   - [1.1 Version 0.1](#p1)
 - **[2 Table of Contents](#p2)**
-- **[3 Character Building](#p3)**
+- **[3 Character Building](#character_building)**
 - **[4 Gear](#p4)**
   - [4.1 Melee Weapons](#p4)
     - [4.1.1 Melee Weapon Enchantments](#p6)
@@ -41,18 +42,32 @@ Special thanks to <a href="https://homebrewery.naturalcrit.com">the homebrewery<
     - [4.3.1 Armor Enchantments](#p13)
   - [4.4 Artifacts](#p15)
 - **[5 Monsters](#p17)**
-</div>
-
-\page
-
+</div>
+
+\page
+
+<a id="character_building"></a>
+
 # Character Building
-Minecraft itself has no race or class boundaries itself, and therefore all minecraft characters should be made as first level humans.  All minecraft Player Characters are proficient in all Melee/Ranged weapons and Artifacts.
-
-\page
-
+insert short introduction to character building here
+
+## Player Characters
+Minecraft itself has no race or class boundaries, and therefore any race or class accents are purely flavor.  A dragonborn barbarian will have the exact same stats as a human cleric.  All minecraft Player Characters are proficient in all Melee/Ranged weapons and Artifacts.  Since they are heroic, they start with a D10 hit die.  Core attributes may be rolled, and/or point-bought depending on Player and Dungeon Master preference.
+
+## Non Player Characters
+Non player characters include the Minecraft Villagers, and a few monsters (Mobs) within the minecraft world which have sentience (Illagers, Evokers, Enchanters, etc.)  They will be detailed in the "Monsters" section.
+
+\page
+
+# Gear
+
+## Melee Weapons
+
 ### Common Melee Weapons
+
 <div class='classTable wide'>
-##### Common Melee Weapons
+
+##### Common Melee Weapons Table
 
 | Weapon | Rarity | Cost | Damage | Weight | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -80,6 +95,8 @@ Minecraft itself has no race or class boundaries itself, and therefore all minec
 </div>
 
 \page
+
+### Common Melee Weapon Descriptions
 
 #### Axe
 *Basic Axe*
@@ -299,14 +316,15 @@ ___
 - **Category:** Common
 - **Group:** Axe; **Traits** foo, bar
 <br><img src='https://gamewith-en.akamaized.net/article_tools/minecraft-dungeons/gacha/19012.png'><br>
-TBD: write a really cool description here
-
-\page
-
+TBD: write a really cool description here
+
+\page
+
 ### Unique Melee Weapons
 
-##### Unique Melee Weapons
 <div class='classTable wide'>
+
+##### Unique Melee Weapons Table
 
 | Weapon | Rarity | Cost | Damage | Weight | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -337,6 +355,8 @@ TBD: write a really cool description here
 | Venom Glaive          | Unique | gp   | xdy bludgeoning | xx lbs. | Long Melee Reach <br> Spawns Poison Clouds 	|
 | Whispering Spear      | Unique | gp   | xdy bludgeoning | xx lbs. | Long Melee Reach <br> Sometimes Strikes Twice|
 </div>
+
+\page
 
 #### Broadsword
 *Short Description Goes here*
@@ -398,6 +418,9 @@ ___
 
 TBD: write a really cool description here
 
+```
+```
+
 #### Fangs of Frost
 *Short Description Goes here*
 ___
@@ -457,6 +480,8 @@ ___
 - **Group:** Axe; **Traits** foo, bar
 
 TBD: write a really cool description here
+
+\page
 
 #### Hawkbrand
 *Short Description Goes here*
@@ -518,6 +543,9 @@ ___
 
 TBD: write a really cool description here
 
+```
+```
+
 #### Nameless Blade
 *Short Description Goes here*
 ___
@@ -578,6 +606,8 @@ ___
 
 TBD: write a really cool description here
 
+\page
+
 #### Venom Glaive
 *Short Description Goes here*
 ___
@@ -596,12 +626,15 @@ ___
 - **Category:** Common
 - **Group:** Axe; **Traits** foo, bar
 
-TBD: write a really cool description here
-
-\page
-
-##### Melee Weapon Enchantments
+TBD: write a really cool description here
+
+\page
+
+### Melee Weapon Enchantments
+
 <div class='classTable wide'>
+
+##### Melee Weapon Enchantments Table
 
 | Enchantment | Rarity | Ability | Tier 1 | Tier 2 | Tier 3 |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -630,20 +663,28 @@ TBD: write a really cool description here
 \page
 
 <div class='classTable wide'>
-##### Melee Weapon Enchantments (Continued)
+
+##### Melee Weapon Enchantments Table (Continued)
+
 | Weapon | Rarity | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Swirling | Powerful | The last attack in a combo performs a swirling attack, damaging nearby enemies. | Deals a small amount of damage | Deals a medium amount of damage | Deals a large amount of damage |
 | Thundering | Common | Has 30% chance to summon a lightning strike that damages nearby enemies. | Deals small electrical damage | Deals medium electrical damage | Deals large electrical damage |
 | Weakening | Common | Your attacks decrease the attack damage of all nearby enemies for five seconds. | -20% reduced damage | -30% reduced damage | -40% reduced damage |
 </div>
-
-
-\page
-
-##### Common Ranged Weapons
+
+#### Melee Weapon Enchantment Descriptions
+
+
+\page
+
+## Ranged Weapons
+
+### Common Ranged Weapons
 
 <div class='classTable wide'>
+
+##### Common Ranged Weapons Table
 
 | Weapon | Rarity | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -961,13 +1002,16 @@ ___
 - **Group:** Axe; **Traits** foo, bar
 
 TBD: write a really cool description here
-
-
-\page
-
 
-##### Unique Ranged Weapons
+
+\page
+
+
+### Unique Ranged Weapons
+
 <div class='classTable wide'>
+
+##### Unique Ranged Weapons Table
 
 | Weapon | Rarity | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1109,14 +1153,15 @@ ___
 - **Group:** Axe; **Traits** foo, bar
 
 TBD: write a really cool description here
-
-
-\page
-
+
+
+\page
+
 ### Ranged Weapon Enchantments
 
-##### Ranged Weapon Enchantments
 <div class='classTable wide'>
+
+##### Ranged Weapon Enchantments Table
 
 | Enchantment | Rarity | Ability | Tier 1 | Tier 2 | Tier 3 |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1141,14 +1186,17 @@ TBD: write a really cool description here
 | Unchanting | Common | Projectiles deal more damage to enchanted enemies. | +50% bonus damage | +75% bonus damage | +100% bonus damage |
 | Wild Rage | Common | Hitting an enemy has a chance to send it into a rage, making it hostile towards everyone. | 20% chance to trigger | 30% chance to trigger | 40% chance to trigger |
 </div>
-
-
-\page
-
+
+
+\page
+
 ## Armor
 
-###### Common Armor
+### Common Armor
+
 <div class='classTable wide'>
+
+##### Common Armor Table
 
 | Armor | Rarity | Perks | 
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1170,12 +1218,15 @@ TBD: write a really cool description here
 | Spelunker's Armour  | Common, Rare | +20% weapon damage boost aura <br> Gives you a pet bat | 
 | Thief Armour        | Common, Rare | +25% melee attack speed |
 | Wolf Armour         | Common, Rare | +20% weapon damage boost aura <br> Health potions heal nearby allies |
-</div>
-
-\page
-
-##### Unique Armor
+</div>
+
+\page
+
+### Unique Armor
+
 <div class='classTable wide'>
+
+##### Unique armor Table
 
 | Armor | Rarity | Perks | 
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1189,12 +1240,15 @@ TBD: write a really cool description here
 | Spider Armour       | Unique | +25% melee attack speed <br> 3% life steal aura |
 | Stalwart Armor      | Unique | Potion use boosts defense <br> 35% damage reduction <br> 30% chance to negate hits <br> 100% longer roll cooldown | 
 | Wither Armor        | Unique | +100% souls gathered Up <br> 35% Damage reduction <br> 3% life steal aura |
-</div>
-
-\page
-
-##### Armor Enchantments
+</div>
+
+\page
+
+### Armor Enchantments 
+
 <div class='classTable wide'>
+
+##### Armor Enchantments Table
 
 | Enchantment | Rarity | Ability | Tier 1 | Tier 2 | Tier 3 |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1221,7 +1275,150 @@ TBD: write a really cool description here
 | Swiftfooted       | Common | Rolling makes you move faster for three seconds. | +30% movement speed | +40% movement speed | +50% movement speed |
 | Thorns            | Common | Whenever you take damage, you deal damage back to the attacker. | 100% damage returned | 150% damage returned | 200% damage returned |
 </div>
-
-
-\page
-
+
+
+\page
+
+# Monsters
+
+## Bosses
+___
+___
+> ## Arch-Illager
+>*Short Description*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 86(1d4 + 5)
+> - **Speed** 12ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|20 (+5)|18 (+4)|10 (+0)|4 (-3)|11 (+1)|
+>___
+> - **Condition Immunities** groggy
+> - **Senses** passive Perception 15
+> - **Languages** Latin, Pottymouth
+> - **Challenge** 9 (5616 XP)
+> ___
+> ***Sassiness.*** When questioned, this creature will talk back instead of answering.
+>
+> ***Enormous Nose.*** This creature gains advantage on any check involving putting things in its nose.
+>
+> ***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
+> ### Actions
+> ***Dual Cobra Wristlock.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+>
+> ***Suffering Wringer.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+>
+> ***Team Foot.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+>
+> ***Somersault Stump Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+>
+> ***Jumping Driver.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+
+### Arch-Illager
+### Corrupted Cauldron
+### Enderman
+### Evoker
+### Redstone Golem
+### Redstone Monstrosity
+### Skeleton Horseman
+### The False King
+### The Necromancer
+
+\page
+
+## Illagers
+### Enchanter
+### Geomancer
+### Pillager
+### Royal Guards
+### Summoner
+### Vindicator
+### Armored Vindicator
+### Witch
+
+\page
+
+## Zombies
+### Armored Zombie
+### Chicken Jockey
+### Enchanted Zombie
+### Husk
+### Zombie
+
+\page
+
+## Skeletons
+### Armored Skeleton
+### Enchanted Skeleton
+### Skeleton
+### Skeleton Vanguard
+
+\page
+
+## Creepers
+### Creeper
+
+\page
+
+## Spiders
+### Cave Spider
+
+___
+> ## Spider
+>*Large guy, unoriginal neutral*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 105(1d4 + 5)
+> - **Speed** 48ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|2 (-4)|10 (+0)|3 (-3)|20 (+5)|18 (+4)|
+>___
+> - **Condition Immunities** swagged
+> - **Senses** passive Perception 5
+> - **Languages** Latin
+> - **Challenge** 0 (66 XP)
+> ___
+> ***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
+>
+> ***Enormous Nose.*** This creature gains advantage on any check involving putting things in its nose.
+>
+> ***Big Jerk.*** Thinks he is just *waaaay* better than you.
+> ### Actions
+> ***Abdominal Drop.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+>
+> ***Open Chin Choke.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+
+\page
+
+## Redstone
+### Redstone Cube
+
+\page
+
+## Other Mobs
+### Slime
+### Wraith
+
+\page
+
+## Friendly Mobs
+### Blacksmith
+### Chicken
+### Cow
+### Pig
+### Piggy Bank
+### Sheep
+### Wandering Trader
+
+\page
+
+## Companions
+### Bat
+### Iron Golem
+### Key Golem
+### Llama
+### Wolf

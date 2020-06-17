@@ -1,5 +1,8 @@
-##### Unique Armor
+### Unique Armor
+
 <div class='classTable wide'>
+
+##### Unique armor Table
 
 | Armor | Rarity | Perks | 
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

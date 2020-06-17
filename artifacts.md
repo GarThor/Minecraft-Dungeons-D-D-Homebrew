@@ -1,7 +1,8 @@
-## Artifacts
-##### Artifacts
+### Artifacts
 
 <div class='classTable wide'>
+
+##### Artifacts Table
 
 | Artifacts | Ability | Effect | Cooldown |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

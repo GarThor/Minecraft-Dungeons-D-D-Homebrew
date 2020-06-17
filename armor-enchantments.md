@@ -1,5 +1,8 @@
-##### Armor Enchantments
+### Armor Enchantments 
+
 <div class='classTable wide'>
+
+##### Armor Enchantments Table
 
 | Enchantment | Rarity | Ability | Tier 1 | Tier 2 | Tier 3 |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

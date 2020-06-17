@@ -1,7 +1,8 @@
 ### Unique Melee Weapons
 
-##### Unique Melee Weapons
 <div class='classTable wide'>
+
+##### Unique Melee Weapons Table
 
 | Weapon | Rarity | Cost | Damage | Weight | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -32,6 +33,8 @@
 | Venom Glaive          | Unique | gp   | xdy bludgeoning | xx lbs. | Long Melee Reach <br> Spawns Poison Clouds 	|
 | Whispering Spear      | Unique | gp   | xdy bludgeoning | xx lbs. | Long Melee Reach <br> Sometimes Strikes Twice|
 </div>
+
+\page
 
 #### Broadsword
 *Short Description Goes here*
@@ -93,6 +96,9 @@ ___
 
 TBD: write a really cool description here
 
+```
+```
+
 #### Fangs of Frost
 *Short Description Goes here*
 ___
@@ -152,6 +158,8 @@ ___
 - **Group:** Axe; **Traits** foo, bar
 
 TBD: write a really cool description here
+
+\page
 
 #### Hawkbrand
 *Short Description Goes here*
@@ -213,6 +221,9 @@ ___
 
 TBD: write a really cool description here
 
+```
+```
+
 #### Nameless Blade
 *Short Description Goes here*
 ___
@@ -272,6 +283,8 @@ ___
 - **Group:** Axe; **Traits** foo, bar
 
 TBD: write a really cool description here
+
+\page
 
 #### Venom Glaive
 *Short Description Goes here*

@@ -1,6 +1,9 @@
 
-##### Unique Ranged Weapons
+### Unique Ranged Weapons
+
 <div class='classTable wide'>
+
+##### Unique Ranged Weapons Table
 
 | Weapon | Rarity | Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

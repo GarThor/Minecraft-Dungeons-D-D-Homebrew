@@ -1,10 +1,11 @@
 # Table of Contents
 <div class='toc'>
+
 ##### Table Of Contents
 - **[1 Minecraft Dungeons PHB](#p1)**
   - [1.1 Version 0.1](#p1)
 - **[2 Table of Contents](#p2)**
-- **[3 Character Building](#p3)**
+- **[3 Character Building](#character_building)**
 - **[4 Gear](#p4)**
   - [4.1 Melee Weapons](#p4)
     - [4.1.1 Melee Weapon Enchantments](#p6)

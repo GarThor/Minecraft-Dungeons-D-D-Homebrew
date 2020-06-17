@@ -14,7 +14,7 @@
 <div style='margin-top:140px'></div>
 
 
-##### In an empire of deception, six tomb-robbers quest for the ultimate weapon and combat an army of raiders.
+##### In an empire of deception, six <s>tomb-robbers</s>Heros quest for the ultimate weapon and combat an army of <s>raiders</s>Mobs.
 
 <br><br>
 Most of the content in this guide so far is based off of or direclty coppied from: https://www.ign.com/wikis/minecraft-dungeons/
