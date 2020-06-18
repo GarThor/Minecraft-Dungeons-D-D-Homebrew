@@ -18,14 +18,17 @@ def write_content(content, outFile, title="", anchor=""):
                         "<a id='{0}' name='{0}'></a>\n\n".format(anchor))
       outFile.write(content)
 
-def find_attribute(node, name):
-      if node == None:
-            return None
-      if node.attributes == None or len(node.attributes) == 0:
-            return None
-      for attr in node.attributes:
-            if attr.name == name:
-                  return node
+# def find_attribute(node, name):
+#       if node == None:
+#             return None
+#       if node.attributes == None or len(node.attributes) == 0:
+#             return None
+#       for attr in node.attributes:
+#             if attr.name == name:
+#                   return node
+
+def title_to_anchor_link(title=""):
+      return title.replace(" ", "-").lower()
 
 def process_section_for_toc(sections, level = 0, indexStack = []):
       result = ""
@@ -42,24 +45,51 @@ def process_section_for_toc(sections, level = 0, indexStack = []):
                               result += "**"
                         for item in indexStack:
                               result += "{}.".format(item)
-                        result += " [{0}]({1})".format(attr.value, attr.value.replace(" ", ""))
+                        result += " [{0}](#{1})".format(attr.value, title_to_anchor_link(attr.value))
                         if level == 0:
                               result += "**"
                         result += "\n"
                   childSections = section.childNodes
-                  result += process_section(childSections, level+1, indexStack)
+                  result += process_section_for_toc(childSections, level+1, indexStack)
                   indexStack.pop()
       return result
 
-def generate_table_of_contents(doc):
+def generate_table_of_contents(collection):
       table = "<div class='toc'>\n\n# Table Of Contents\n\n"
 
-      sections = doc.childNodes
+      sections = collection.childNodes
 
       table += process_section_for_toc(sections)
       
-      table += "\n</div>\n"
+      table += "\n</div>\n\n\page\n\n"
       return table
+
+def process_section_for_doc(sections, level = 0):
+      result = ""
+      curIdx = 0
+      for section in sections:
+            if section.nodeType == section.ELEMENT_NODE:
+                  title = section.getAttributeNode("title")
+                  page = section.getAttributeNode("page")
+                  if title != None:
+                        curIdx = curIdx + 1
+                  if title != None:
+                        result += ("#" * (level+1)) + " " + title.value
+                        result += " <a id=\"{0}\" name=\"{0}\"></a>".format(title_to_anchor_link(title.value))
+                        result += "\n\n"
+                  if page != None:
+                        pageFile = open(page.value, "r")
+                        result += pageFile.read()
+                        pageFile.close()
+                        result += "\n\page\n\n"
+                  childSections = section.childNodes
+                  result += process_section_for_doc(childSections, level+1)
+      return result
+
+def generate_doc(collection):
+      sections = collection.childNodes
+      data = process_section_for_doc(sections)
+      return data
 
 def main(indexFile="index.xml", outputFile="document.md"):
       # Clear/Create the document
@@ -80,7 +110,10 @@ def main(indexFile="index.xml", outputFile="document.md"):
       toc = generate_table_of_contents(collection)
       write_content(toc, doc)
 
-      section = collection.getElementsByTagName('section')
+      data = generate_doc(collection)
+      write_content(data, doc)
+
+      doc.close()
 
 if __name__ == '__main__':
     main()
