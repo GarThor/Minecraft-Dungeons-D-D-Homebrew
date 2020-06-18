@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no" ?>
+<doc titlePage="source/title-page.md">
+      <section title="Character Building" page="source\character-building.md" />
+      <section title="Gear">
+            <section title="Melee Weapons" >
+                  <section  title="Common Melee Weapons" page="source\melee-weapons-common.md" />
+                  <section  title="Unique Melee Weapons" page="source\melee-weapons-unique.md" />
+                  <section  title="Melee Weapons Enchantments" page="source\melee-weapon-enchantments.md" />
+            </section>
+
+            <section title="Ranged Weapons" >
+                  <section title="Common Ranged Weapons" page="source\ranged-weapons-common.md" />
+                  <section title="Unique Ranged Weapons" page="source\ranged-weapons-unique.md" />
+                  <section title="Ranged Weapons Enchantments" page="source\ranged-weapon-enchantments.md" />
+            </section>
+
+            <section title="Armor" >
+                  <section title="Common Armor" page="source\armor-common.md" />
+                  <section title="Unique Armor" page="source\armor-unique.md" />
+                  <section title="Armor Enchantments" page="source\armor-enchantments.md" />
+            </section>
+      </section>
+      <section title="Monsters" page="source\monsters.md" />
+</doc>

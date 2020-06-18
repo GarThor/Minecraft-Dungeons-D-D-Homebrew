@@ -6,5 +6,8 @@
       // homebrewery formatting uses code-blocks to split columns
       //    so we can't disable line-lengths for just
       //    those elements, so just disable them globally.
+      //    yes... I realise comments aren't json safe, but I don't care
+      //    because they seem to work anyway, and I feel like this will be
+      //    important to remember why I'm disabling this specific thing.
       "line-length": false
 }
