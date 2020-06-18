@@ -1,0 +1,10 @@
+{
+      "no-inline-html":
+      {
+            "allowed_elements": ["a","div","style","br", "hr"]
+      },
+      // homebrewery formatting uses code-blocks to split columns
+      //    so we can't disable line-lengths for just
+      //    those elements, so just disable them globally.
+      "line-length": false
+}
