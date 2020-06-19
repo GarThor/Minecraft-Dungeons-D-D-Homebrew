@@ -1,5 +1,3 @@
-# Monsters
-
 tbd: short introduction to bosses in minecraft dunegons
 
 \page

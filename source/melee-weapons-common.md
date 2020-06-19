@@ -1,8 +1,6 @@
 <div class='classTable wide'>
 
-<!-- markdownlint-disable first-line-heading -->
 ### Common Melee Weapons Table
-<!-- markdownlint-enable first-line-heading -->
 
 |Weapon |Rarity |Cost |Damage |Weight |Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

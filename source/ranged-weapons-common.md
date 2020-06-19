@@ -1,5 +1,3 @@
-### Common Ranged Weapons
-
 <div class='classTable wide'>
 
 #### Common Ranged Weapons Table

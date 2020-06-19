@@ -71,6 +71,7 @@ def process_section_for_doc(sections, level = 0):
             if section.nodeType == section.ELEMENT_NODE:
                   title = section.getAttributeNode("title")
                   page = section.getAttributeNode("page")
+                  appendPage = section.getAttributeNode("appendPage")
                   if title != None:
                         curIdx = curIdx + 1
                   if title != None:
@@ -81,7 +82,12 @@ def process_section_for_doc(sections, level = 0):
                         pageFile = open(page.value, "r")
                         result += pageFile.read()
                         pageFile.close()
+                  if appendPage == None:
                         result += "\n\page\n\n"
+                  elif appendPage != None and appendPage.value == True:
+                        result += "\n\page\n\n"
+                  else:
+                        result+= "\n"
                   childSections = section.childNodes
                   result += process_section_for_doc(childSections, level+1)
       return result

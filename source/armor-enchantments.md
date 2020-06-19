@@ -1,5 +1,3 @@
-### Armor Enchantments
-
 <div class='classTable wide'>
 
 #### Armor Enchantments Table

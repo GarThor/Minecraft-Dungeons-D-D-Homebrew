@@ -1,5 +1,3 @@
-### Unique Ranged Weapons
-
 <div class='classTable wide'>
 
 #### Unique Ranged Weapons Table

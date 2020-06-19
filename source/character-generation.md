@@ -1,5 +1,3 @@
-# Character Building <a id="character_building" name="CharacterBuilding"></a>
-
 Insert short introduction to character building here
 
 ## Player Characters

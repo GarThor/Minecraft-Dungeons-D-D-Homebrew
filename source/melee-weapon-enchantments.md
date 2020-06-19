@@ -1,5 +1,3 @@
-### Melee Weapon Enchantments
-
 <div class='classTable wide'>
 
 #### Melee Weapon Enchantments Table

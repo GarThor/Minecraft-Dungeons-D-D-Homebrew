@@ -1,5 +1,3 @@
-### Unique Melee Weapons
-
 <div class='classTable wide'>
 
 #### Unique Melee Weapons Table

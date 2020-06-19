@@ -1,5 +1,3 @@
-### Ranged Weapon Enchantments
-
 <div class='classTable wide'>
 
 #### Ranged Weapon Enchantments Table

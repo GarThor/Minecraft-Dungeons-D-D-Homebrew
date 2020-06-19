@@ -1,5 +1,3 @@
-### Artifacts
-
 <div class='classTable wide'>
 
 #### Artifacts Table

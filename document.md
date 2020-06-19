@@ -9,6 +9,7 @@
 
 <div style='margin-top:25px'></div>
 <div class='wide'>
+
 ## Version 0.0.1.e
   
 <div style='margin-top:140px'></div>
@@ -21,6 +22,9 @@ Most of the content in this guide so far is based off of or direclty coppied fro
 <br><br>
 Special thanks to [the homebrewery]("https://homebrewery.naturalcrit.com"), for the formatting tools to make this guide look oh-so-professional with very little effort needed on my part.  =D
 
+<br><br>
+This project can be tracked over at [Its Home on GitHub](https://github.com/GarThor/Minecraft-Dungeons-D-D-Homebrew)
+
 </div>
 
 \page
@@ -29,7 +33,7 @@ Special thanks to [the homebrewery]("https://homebrewery.naturalcrit.com"), for 
 
 # Table Of Contents
 
-- **1. [Character Building](#character-building)**
+- **1. [Character Generation](#character-generation)**
 - **2. [Gear](#gear)**
   - 2.1. [Melee Weapons](#melee-weapons)
     - 2.1.1. [Common Melee Weapons](#common-melee-weapons)
@@ -49,9 +53,7 @@ Special thanks to [the homebrewery]("https://homebrewery.naturalcrit.com"), for 
 
 \page
 
-# Character Building <a id="character-building" name="character-building"></a>
-
-# Character Building <a id="character_building" name="CharacterBuilding"></a>
+# Character Generation <a id="character-generation" name="character-generation"></a>
 
 Insert short introduction to character building here
 
@@ -67,15 +69,17 @@ Non player characters include the Minecraft Villagers, and a few monsters (Mobs)
 
 # Gear <a id="gear" name="gear"></a>
 
+Gear is... tbd
+
 ## Melee Weapons <a id="melee-weapons" name="melee-weapons"></a>
+
+melee weapons are... tbd
 
 ### Common Melee Weapons <a id="common-melee-weapons" name="common-melee-weapons"></a>
 
 <div class='classTable wide'>
 
-<!-- markdownlint-disable first-line-heading -->
 ### Common Melee Weapons Table
-<!-- markdownlint-enable first-line-heading -->
 
 |Weapon |Rarity |Cost |Damage |Weight |Perks |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -373,8 +377,6 @@ TBD: write a really cool description here.
 \page
 
 ### Unique Melee Weapons <a id="unique-melee-weapons" name="unique-melee-weapons"></a>
-
-### Unique Melee Weapons
 
 <div class='classTable wide'>
 
@@ -738,8 +740,6 @@ TBD: write a really cool description here
 
 ### Melee Weapons Enchantments <a id="melee-weapons-enchantments" name="melee-weapons-enchantments"></a>
 
-### Melee Weapon Enchantments
-
 <div class='classTable wide'>
 
 #### Melee Weapon Enchantments Table
@@ -787,9 +787,9 @@ TBD: write a really cool description here
 
 ## Ranged Weapons <a id="ranged-weapons" name="ranged-weapons"></a>
 
-### Common Ranged Weapons <a id="common-ranged-weapons" name="common-ranged-weapons"></a>
+ranged weapons are... tbd
 
-### Common Ranged Weapons
+### Common Ranged Weapons <a id="common-ranged-weapons" name="common-ranged-weapons"></a>
 
 <div class='classTable wide'>
 
@@ -1172,8 +1172,6 @@ TBD: write a really cool description here
 
 ### Unique Ranged Weapons <a id="unique-ranged-weapons" name="unique-ranged-weapons"></a>
 
-### Unique Ranged Weapons
-
 <div class='classTable wide'>
 
 #### Unique Ranged Weapons Table
@@ -1347,8 +1345,6 @@ TBD: write a really cool description here
 
 ### Ranged Weapons Enchantments <a id="ranged-weapons-enchantments" name="ranged-weapons-enchantments"></a>
 
-### Ranged Weapon Enchantments
-
 <div class='classTable wide'>
 
 #### Ranged Weapon Enchantments Table
@@ -1381,9 +1377,9 @@ TBD: write a really cool description here
 
 ## Armor <a id="armor" name="armor"></a>
 
-### Common Armor <a id="common-armor" name="common-armor"></a>
+armor is... tbd
 
-### Common Armor
+### Common Armor <a id="common-armor" name="common-armor"></a>
 
 <div class='classTable wide'>
 
@@ -1415,8 +1411,6 @@ TBD: write a really cool description here
 
 ### Unique Armor <a id="unique-armor" name="unique-armor"></a>
 
-### Unique Armor
-
 <div class='classTable wide'>
 
 #### Unique armor Table
@@ -1439,8 +1433,6 @@ TBD: write a really cool description here
 \page
 
 ### Armor Enchantments <a id="armor-enchantments" name="armor-enchantments"></a>
-
-### Armor Enchantments
 
 <div class='classTable wide'>
 
@@ -1476,8 +1468,6 @@ TBD: write a really cool description here
 \page
 
 # Monsters <a id="monsters" name="monsters"></a>
-
-# Monsters
 
 tbd: short introduction to bosses in minecraft dunegons
 
@@ -1687,5 +1677,3 @@ ___
 ### Llama
 
 ### Wolf
-
-\page

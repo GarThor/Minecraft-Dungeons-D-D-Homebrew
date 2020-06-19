@@ -1,5 +1,3 @@
-### Common Armor
-
 <div class='classTable wide'>
 
 #### Common Armor Table
